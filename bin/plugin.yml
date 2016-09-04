@@ -1,0 +1,9 @@
+main: com.panjaco.pictionary.Pictionary
+version: 1.0.0
+author: iPanja
+name: Pictionary
+commands:
+  pictionary:
+    description: Use Pictionary commands
+    usage: /pc
+    aliases: pc
